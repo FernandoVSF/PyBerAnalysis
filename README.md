@@ -14,11 +14,16 @@ Create a summary DataFrame of the ride-sharing data by city type. Then, using Pa
 
 ## Results
 The analysis of the Ride Sharing data show that:
-  - Less urban cities have much lower of rides (by definition), but have even lowr number of drivers, which makes average Fare per Ride and especially Average Fare per driver be signicantly higher.
+  - Less urban cities have much lower of rides (by definition), but have even lowr number of drivers, which makes average Fare per Ride and especially Average Fare per driver be signicantly higher, as shown in the table below:
   
-  - Ride-Sharing summary
-    	![Ride-Sharing summary](/analysis/Ride_Sharing_DF.png)
+- Ride-Sharing Summary
+![Ride-Sharing summary](/analysis/Ride_Sharing_DF.png)
   
+ -  The total fare in urban cities are signifincatly higher than nom-urbans as shown in the chart below.  But this is mistly explained by higher number of rides, but not as much as total of drivers, as shown in the table above.
+ 
+- Pyber-Fare Summary
+![Pyber_Fare_Summary](/analysis/Pyber_Fare_Summary.png) 
+ 
   - The school summary was marginally affected to the downside, reinforcing suspicious activities on the 9th grade.  Average Math score was roughly unchanged at 83.4, Average Reading Score came from 83.8 to 83.9, % Passing Math from 93.3%to 93.2%, % Passing Reading from 97.3% to to 97.0 and % Overall Passing from 90.9 to 90.6.  The fact the the average did't have much impact and % Passing was lower makes us believe that only Non-Passing grades could have been altered, especially in reading.
   - However, the change on the scores was not enough to make Thomas High School loses the second position on Overall Passing Ranking.
   - Replacing the ninth-grade scores had the following impacts:
