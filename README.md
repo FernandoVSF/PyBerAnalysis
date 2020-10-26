@@ -22,7 +22,7 @@ The analysis of the Ride Sharing data show that:
  -  The total fare in urban cities are signifincatly higher than nom-urbans as shown in the chart below.  But this is mistly explained by higher number of rides, but not as much as total of drivers, as shown in the table above.
  
 - Pyber-Fare Summary
-![Pyber_Fare_Summary](/analysis/Pyber_Fare_Summary.png) 
+![Pyber_fare_summary](/analysis/Pyber_fare_summary.png) 
  
   - The school summary was marginally affected to the downside, reinforcing suspicious activities on the 9th grade.  Average Math score was roughly unchanged at 83.4, Average Reading Score came from 83.8 to 83.9, % Passing Math from 93.3%to 93.2%, % Passing Reading from 97.3% to to 97.0 and % Overall Passing from 90.9 to 90.6.  The fact the the average did't have much impact and % Passing was lower makes us believe that only Non-Passing grades could have been altered, especially in reading.
   - However, the change on the scores was not enough to make Thomas High School loses the second position on Overall Passing Ranking.
